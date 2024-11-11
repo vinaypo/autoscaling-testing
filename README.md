@@ -1,1 +1,3 @@
-# autoscaling-testing
+# autoscaling_testing
+autoscaling_testing
+THIS REPO CONTAIN AUTOSCALING TESTING FILES AND CREATES AN CUSTOM AMI.
